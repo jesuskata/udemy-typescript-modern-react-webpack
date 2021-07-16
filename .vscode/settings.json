@@ -1,0 +1,25 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#105a69",
+        "activityBar.activeBorder": "#e13dc6",
+        "activityBar.background": "#105a69",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#e13dc6",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#09343d",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#105a69",
+        "titleBar.activeBackground": "#09343d",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#09343d99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#09343d"
+}
